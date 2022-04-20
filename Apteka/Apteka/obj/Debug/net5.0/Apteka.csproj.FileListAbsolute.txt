@@ -1,0 +1,5 @@
+C:\Томилов 2-2 ис\Apteka\Apteka\obj\Debug\net5.0\Apteka.csproj.AssemblyReference.cache
+C:\Томилов 2-2 ис\Apteka\Apteka\obj\Debug\net5.0\Apteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Томилов 2-2 ис\Apteka\Apteka\obj\Debug\net5.0\Apteka.AssemblyInfoInputs.cache
+C:\Томилов 2-2 ис\Apteka\Apteka\obj\Debug\net5.0\Apteka.AssemblyInfo.cs
+C:\Томилов 2-2 ис\Apteka\Apteka\obj\Debug\net5.0\Apteka.csproj.CoreCompileInputs.cache
